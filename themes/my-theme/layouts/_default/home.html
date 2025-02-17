@@ -1,0 +1,35 @@
+{{ define "main" }}
+  {{ .Content }}
+
+  {{ $pages := where .Site.RegularPages "Type" "post" }}
+  {{ $paginator := .Paginate ($pages.ByDate.Reverse) 100 }}
+
+  {{ range $paginator.Pages }}
+    <article class="post">
+      <h2><a href="{{ .RelPermalink }}" class="post-link">{{ .Title }}</a></h2>
+      <div class="post-date">{{ .Date.Format "January 2, 2006" }}</div>
+      <div class="post-content">
+        {{ .Summary }}
+      </div>
+      {{ with .Params.image }}
+        <img src="{{ . }}" alt="{{ $.Title }}" class="post-media">
+      {{ end }}
+      {{ if .Truncated }}
+        <div class="post-actions">
+          <a href="{{ .RelPermalink }}" class="button">Lire →</a>
+        </div>
+      {{ end }}
+    </article>
+  {{ end }}
+
+  {{ if gt $paginator.TotalPages 1 }}
+    <div class="pagination">
+      {{ if $paginator.HasPrev }}
+        <button onclick="window.location.href='{{ $paginator.Prev.URL }}'">← Newer Posts</button>
+      {{ end }}
+      {{ if $paginator.HasNext }}
+        <button onclick="window.location.href='{{ $paginator.Next.URL }}'">Older Posts →</button>
+      {{ end }}
+    </div>
+  {{ end }}
+{{ end }}

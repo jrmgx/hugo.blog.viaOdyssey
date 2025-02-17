@@ -1,48 +1,9 @@
 baseURL = 'https://blog.viaodyssey.net/'
 languageCode = 'fr-fr'
 title = 'Via Odyssey — Blog'
-theme = "gokarna"
+theme = "my-theme"
 
 [params]
-# Choose the color shown when hyperlinks are hovered over
-accentColor = "#FF4D4D"
-
-# Resource URL for the site avatar (home page and header)
-avatarURL = "/avatar.jpg"
-avatarAltText = "avatar"
-avatarSize = "size-m"
-
-# Inject arbitrary HTML via the <head> tag
-# Best used for importing custom JavaScript, CSS, or analytics
-customHeadHTML = """
-<link rel="icon" type="image/jpeg" href="/images/avatar.jpg">
-"""
-
-# Configure how post dates are displayed
-dateFormat = "2 January 2006"
-
-# Home page meta description
-description = "Paris - Athènes à pied / Paris - Athens by foot. 6 months, 3500 km. FR 🇫🇷 → CH 🇨🇭 → IT 🇮🇹 → GR 🇬🇷"
-
-# Footer text (i.e. author/project name)
-footer = ""
-
-# Define SEO keywords
-metaKeywords = ["blog", "randonnée", "paris", "athènes", "hiking", "athens"]
-
-# Display posts on the home page:
-# "popular" (order posts by weight)
-# "recent" (order posts by date)
-# "", unset (do not display)
-showPostsOnHomePage = "recent"
-numberPostsOnHomePage = 100000
-
-# Display a "back to top" button on posts and pages: true, false
-# May not render on smaller screen sizes
-showBackToTopButton = true
-# Show the previous and next post in your timeline: "true", "false"
-# Incompatible with Weight
-togglePreviousAndNextButtons = false
 
 [menu]
 [[menu.main]]
@@ -59,3 +20,8 @@ weight = 3
 name = "💬 Micro Blog"
 url = "https://mountains.social/@viaodyssey"
 weight = 4
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true

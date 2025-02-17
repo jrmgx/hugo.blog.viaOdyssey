@@ -1,0 +1,16 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+
+<meta property="description"
+    content="Paris - Athènes à pied / Paris - Athens by foot. 6 months, 3500 km. FR 🇫🇷 → CH 🇨🇭 → IT 🇮🇹 → GR 🇬🇷">
+<meta property="og:title" content="Blog — Via Odyssey">
+<meta property="og:description"
+    content="Paris - Athènes à pied / Paris - Athens by foot. 6 months, 3500 km. FR 🇫🇷 → CH 🇨🇭 → IT 🇮🇹 → GR 🇬🇷">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://blog.viaodyssey.net">
+<meta property="og:image" content="https://blog.viaodyssey.net/og.jpg">
+<link rel="icon" type="image/jpg"
+    href="/avatar.jpg">
+{{ partialCached "head/css.html" . }}
+{{ partialCached "head/js.html" . }}
