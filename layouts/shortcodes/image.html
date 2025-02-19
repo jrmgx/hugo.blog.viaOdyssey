@@ -1,0 +1,14 @@
+{{ $original := resources.Get (.Get "src") }}
+{{ if $original }}
+    {{ $image := $original }}
+    {{ if gt $original.Width 800 }}
+        {{ $image = $original.Resize "800x" }}
+    {{ end }}
+    <img
+        src="{{ $image.RelPermalink }}"
+        alt="{{ .Get "alt" }}"
+        loading="lazy"
+    >
+{{ else }}
+    Error: Image not found: {{ .Get "src" }}
+{{ end }}

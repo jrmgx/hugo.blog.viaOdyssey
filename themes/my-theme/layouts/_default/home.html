@@ -12,7 +12,11 @@
         {{ .Summary }}
       </div>
       {{ with .Params.image }}
-        <img src="{{ . }}" alt="{{ $.Title }}" class="post-media">
+        {{ $image := resources.Get . }}
+        {{ if $image }}
+          {{ $imageResized := $image.Resize "800x" }}
+          <img src="{{ $imageResized.RelPermalink }}" alt="{{ $.Title }}" class="post-media">
+        {{ end }}
       {{ end }}
       {{ if .Truncated }}
         <div class="post-actions">
