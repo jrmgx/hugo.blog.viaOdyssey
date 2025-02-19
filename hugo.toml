@@ -12,7 +12,7 @@ url = "https://www.instagram.com/via.odyssey/"
 weight = 2
 
 [[menu.main]]
-name = "🗺️ Check our progress"
+name = "🗺️ Check Progress Map"
 url = "https://viaodyssey.net/viaodyssey"
 weight = 3
 
