@@ -4,6 +4,16 @@ title = 'Via Odyssey — Blog'
 theme = "my-theme"
 
 [params]
+rss_summary = false
+
+[outputs]
+home = ["HTML", "RSS"]
+
+[outputFormats.RSS]
+baseName = "feed"
+
+[services.rss]
+limit = 20
 
 [menu]
 [[menu.main]]
