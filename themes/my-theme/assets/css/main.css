@@ -210,7 +210,7 @@ main {
   overflow-x: auto;
 }
 
-.post-content blockquote {
+.post-content blockquote, blockquote {
   border-left: 3px solid var(--border-color);
   margin: 1em 0;
   padding-left: 1em;
