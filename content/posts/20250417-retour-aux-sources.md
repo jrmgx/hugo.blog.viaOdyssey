@@ -40,7 +40,7 @@ Et c'est peut-être aux sources qu'on se ressource le mieux.
 
 {{< image src="images/sources/IMG_3939.jpeg" >}}
 
-{{< image src="images/sources/IMG_39340.jpeg" >}}
+{{< image src="images/sources/IMG_3940.jpeg" >}}
 
 {{< image src="images/sources/IMG_3941.jpeg" >}}
 
