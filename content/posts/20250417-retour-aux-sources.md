@@ -34,32 +34,32 @@ Ou est-ce simplement parce que nous nous trouvons aux sources de la Seine pour d
 
 Et c'est peut-être aux sources qu'on se ressource le mieux.
 
-{{< image src="images/s1/IMG_3937.jpeg" >}}
+{{< image src="images/sources/IMG_3937.jpeg" >}}
 
-{{< image src="images/s1/IMG_3938.jpeg" >}}
+{{< image src="images/sources/IMG_3938.jpeg" >}}
 
-{{< image src="images/s1/IMG_3939.jpeg" >}}
+{{< image src="images/sources/IMG_3939.jpeg" >}}
 
-{{< image src="images/s1/IMG_39340.jpeg" >}}
+{{< image src="images/sources/IMG_39340.jpeg" >}}
 
-{{< image src="images/s1/IMG_3941.jpeg" >}}
+{{< image src="images/sources/IMG_3941.jpeg" >}}
 
-{{< image src="images/s1/IMG_3942.jpeg" >}}
+{{< image src="images/sources/IMG_3942.jpeg" >}}
 
-{{< image src="images/s1/IMG_3943.jpeg" >}}
+{{< image src="images/sources/IMG_3943.jpeg" >}}
 
-{{< image src="images/s1/IMG_3944.jpeg" >}}
+{{< image src="images/sources/IMG_3944.jpeg" >}}
 
-{{< image src="images/s1/IMG_3945.jpeg" >}}
+{{< image src="images/sources/IMG_3945.jpeg" >}}
 
-{{< image src="images/s1/IMG_3946.jpeg" >}}
+{{< image src="images/sources/IMG_3946.jpeg" >}}
 
-{{< image src="images/s1/IMG_3947.jpeg" >}}
+{{< image src="images/sources/IMG_3947.jpeg" >}}
 
-{{< image src="images/s1/IMG_3948.jpeg" >}}
+{{< image src="images/sources/IMG_3948.jpeg" >}}
 
-{{< image src="images/s1/IMG_3949.jpeg" >}}
+{{< image src="images/sources/IMG_3949.jpeg" >}}
 
-{{< image src="images/s1/IMG_3950.jpeg" >}}
+{{< image src="images/sources/IMG_3950.jpeg" >}}
 
-{{< image src="images/s1/IMG_3951.jpeg" >}}
+{{< image src="images/sources/IMG_3951.jpeg" >}}
