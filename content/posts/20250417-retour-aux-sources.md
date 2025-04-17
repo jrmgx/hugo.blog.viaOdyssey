@@ -6,8 +6,8 @@ title: "Retour aux sources"
 type: "post"
 ---
 
-> mardi 8 avril - mercredi 16 avril
-> 350 km parcourus au total
+> mardi 8 avril - mercredi 16 avril  
+> 350 km parcourus au total  
 > 8 nuits sous tente dont une dans un camping
 
 Le soleil nous a suivi pendant encore quelques temps, avant que la pluie ne s'invite ces derniers jours. 
