@@ -6,7 +6,7 @@ title: "Retour aux sources"
 type: "post"
 ---
 
-> mardi 8 avril - mercredi 16 avril  
+> Mardi 8 avril - mercredi 16 avril  
 > 350 km parcourus au total  
 > 8 nuits sous tente dont une dans un camping
 
