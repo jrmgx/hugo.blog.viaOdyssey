@@ -26,3 +26,41 @@ Dommage, le centre-ville méritait qu'on s'y attarde un peu plus. Une prochaine 
 
 À l'horizon se dessinent les premières collines qui signeront la fin des plaines et des peines.
 
+
+{{< image src="images/s7/IMG_5891.jpeg" >}}
+
+{{< image src="images/s7/IMG_5892.jpeg" >}}
+
+{{< image src="images/s7/IMG_5893.jpeg" >}}
+
+{{< image src="images/s7/IMG_5894.jpeg" >}}
+
+{{< image src="images/s7/IMG_5895.jpeg" >}}
+
+{{< image src="images/s7/IMG_5896.jpeg" >}}
+
+{{< image src="images/s7/IMG_5897.jpeg" >}}
+
+{{< image src="images/s7/IMG_5898.jpeg" >}}
+
+{{< image src="images/s7/IMG_5899.jpeg" >}}
+
+{{< image src="images/s7/IMG_5900.jpeg" >}}
+
+{{< image src="images/s7/IMG_5901.jpeg" >}}
+
+{{< image src="images/s7/IMG_5902.jpeg" >}}
+
+{{< image src="images/s7/IMG_5903.jpeg" >}}
+
+{{< image src="images/s7/IMG_5904.jpeg" >}}
+
+{{< image src="images/s7/IMG_5905.jpeg" >}}
+
+{{< image src="images/s7/IMG_5906.jpeg" >}}
+
+{{< image src="images/s7/IMG_5907.jpeg" >}}
+
+{{< image src="images/s7/IMG_5908.jpeg" >}}
+
+
