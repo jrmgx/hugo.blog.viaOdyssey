@@ -26,9 +26,10 @@ Pourtant elle est belle la Toscane avec ses champs d'avoine dorés, ses cyprès 
 Mais on apprend à l'apprécier au lever du soleil, après 1h de marche dans la pénombre sous l'œil bienveillant de la lune qui décroît. Assister à ce spectacle chaque matin est notre récompense. 
 
 Il y a aussi les personnes qui nous encouragent depuis leur voiture, leur tracteur ou leur vélo. 
-– "Vous allez à Rome ?"
-–"Oui" 
-– "Ah c'est bien, buon cammino"
+
+ – "Vous allez à Rome ?"
+ – "Oui" 
+ – "Ah c'est bien, buon cammino"
 
 Alors on continue la route. 
 
