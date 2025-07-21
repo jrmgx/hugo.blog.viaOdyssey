@@ -9,9 +9,7 @@ type: "post"
 Voici quelques photos de notre semaine 
 sur la Grande Traversée du Jura. 
 
-
-
-{{< image src="images/sc/IMG_8921.jpeg" >}}
+<br>
 
 {{< image src="images/sc/IMG_8922.jpeg" >}}
 
@@ -50,3 +48,6 @@ sur la Grande Traversée du Jura.
 {{< image src="images/sc/IMG_8939.jpeg" >}}
 
 {{< image src="images/sc/IMG_8940.jpeg" >}}
+
+{{< image src="images/sc/IMG_8921.jpeg" >}}
+
