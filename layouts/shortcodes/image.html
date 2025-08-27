@@ -7,7 +7,7 @@
     <img
         src="{{ $image.RelPermalink }}"
         alt="{{ .Get "alt" }}"
-        _loading="lazy"
+        loading="lazy"
     >
 {{ else }}
     Error: Image not found: {{ .Get "src" }}
