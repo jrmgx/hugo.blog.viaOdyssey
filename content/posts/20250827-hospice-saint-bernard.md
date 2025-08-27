@@ -8,6 +8,8 @@ type: "post"
 
 Voici quelques photos de nos premiers jours à l'Hospice du Grand Saint-Bernard. 
 
+<!--more-->
+
 <br>
 
 {{< image src="images/sd/FullSizeRender.jpeg" >}}
