@@ -9,6 +9,8 @@ type: "post"
 Voici quelques photos de notre semaine 
 sur la Grande Traversée du Jura. 
 
+<!--more-->
+
 <br>
 
 {{< image src="images/sc/IMG_8922.jpeg" >}}
