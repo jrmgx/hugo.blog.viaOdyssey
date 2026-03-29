@@ -17,17 +17,17 @@ limit = 20
 
 [menu]
 [[menu.main]]
-name = "🎥 Videos on Instagram"
+name = "Videos on Instagram"
 url = "https://www.instagram.com/via.odyssey/"
 weight = 2
 
 [[menu.main]]
-name = "🗺️ Check Progress Map"
-url = "https://viaodyssey.net/viaodyssey"
+name = "Videos on PeerTube"
+url = "https://video.gangneux.net/search?categoryOneOf=6"
 weight = 3
 
 [[menu.main]]
-name = "💬 Micro Blog"
+name = "Micro Blog"
 url = "https://mountains.social/@viaodyssey"
 weight = 4
 
